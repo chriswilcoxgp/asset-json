@@ -1,0 +1,13 @@
+{
+    "Construction": {
+        "Age": "2007"
+    },
+    "CarbonImpact":
+    {
+        "EmbodiedCarbonIntensity": 690
+    },
+    "MarketAppraisal": {
+        "BuildingValuePerSquareMetre": 9651
+    },
+    "ReturnOnCapitalEmployed": "4.4%"
+}

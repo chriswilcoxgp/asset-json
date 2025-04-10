@@ -1,0 +1,19 @@
+{
+  "Identity": {
+    "Address": "Dalton House, Dane Road, Sale, Trafford, M33 7AR, UK",
+    "Name": "Dalton House"
+  },
+  "ValueAtCarbonRisk": {
+      "GridConstraintYear": "2048"
+  },
+  "CarbonReduction": "34%",
+  "DeltaEnergyUse": "-161,813kWh",
+  "DeltaOperationalCarbon": "34,460kg CO₂",
+  "EnergySavings": "£46,926",
+  "TotalRetrofitCostsRounded": "&#163;130,000",
+  "ReturnOnCapitalEmployed": "34.9%",
+  "PostRetrofitEnergyIntensity": "143kWh/m²",
+  "PostRetrofitOperationalCarbonIntensity": "33kg CO₂/m²",
+  "ScenarioDescription": "This includes:<br/><ul><li>Rooftop PV 60kWp</li><li>HVAC Recomissioning/Optimisation</li><li>Air leakage</li><li>Lighting upgrade</li></ul>",
+  "OutputPdfPath": "https://docs.google.com/presentation/d/e/2PACX-1vRLSgpIm40GuxF14S-qDo_utgzZw69_NbnFck3z-cozMZ77C1ETGe3nEqN2l2rsHQ/pub?start=false&loop=false&delayms=3000"
+}
